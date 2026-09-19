@@ -1,6 +1,6 @@
 import numpy as np
 
 print("its working")
-def func(x):
+def func(x=20):
     print(x)
     
